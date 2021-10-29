@@ -11,3 +11,14 @@ body
     border: red;
     border-radius: 10px;
 }
+
+#Cabecera
+{
+
+    background: #33a;
+    color: white;
+    font-weight: boid;
+    margin: 0;
+    padding: 0.5em;
+
+}

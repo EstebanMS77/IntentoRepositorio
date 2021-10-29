@@ -6,3 +6,8 @@ body
     font-family: "Arial";
 
 }
+#Container
+{
+    border: red;
+    border-radius: 10px;
+}
